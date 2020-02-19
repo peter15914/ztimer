@@ -1,4 +1,5 @@
 # zTimer
+![alt text][logo]
 zTimer is portable and tiny countdown application. It is helpful to control runtime of tasks (and do them faster).
 It is written in C# for MS Windows.
 
@@ -33,3 +34,5 @@ This application may potentially trigger seizures for people with photosensitive
 * click on small gray line under the digits (it becomes green) to change hours or seconds
 * use 'L' button to toggle "automatic pause on computer lock" mode
 * window transparency can be set by mouse wheel
+
+[logo]: https://github.com/peter15914/ztimer/blob/master/img/icon.png "zTimer logo"
