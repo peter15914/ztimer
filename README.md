@@ -35,4 +35,45 @@ This application may potentially trigger seizures for people with photosensitive
 * use 'L' button to toggle "automatic pause on computer lock" mode
 * window transparency can be set by mouse wheel
 
+## Screenshots
+Main window.
+
+![alt text][screen001]
+
+Timer blinks yellow after autopause on computer lock.
+
+![alt text][screen002]
+
+If time is over, timer blinks red and begin count-up time.
+
+![alt text][screen003]
+
+Main window (small size).
+
+![alt text][screen007]
+
+Adding time to timer.
+
+![alt text][screen005]
+
+Adding a reminder.
+
+![alt text][screen006]
+
+Reminder window (blinking random color).
+
+![alt text][screen008]
+
+You can skip a reminder.
+
+![alt text][screen009]
+
 [logo]: https://github.com/peter15914/ztimer/blob/master/img/icon.png "zTimer logo"
+[screen001]: https://github.com/peter15914/ztimer/blob/master/img/001.png "zTimer - Main window"
+[screen002]: https://github.com/peter15914/ztimer/blob/master/img/002.png "zTimer - Timer blinks yellow after autopause on computer lock"
+[screen003]: https://github.com/peter15914/ztimer/blob/master/img/003.png "zTimer - If time is over, timer blinks red and begin count-up time"
+[screen005]: https://github.com/peter15914/ztimer/blob/master/img/005.png "zTimer - Adding time to timer"
+[screen006]: https://github.com/peter15914/ztimer/blob/master/img/006.png "zTimer - Adding a reminder"
+[screen007]: https://github.com/peter15914/ztimer/blob/master/img/007.png "zTimer - Main window (small size)"
+[screen008]: https://github.com/peter15914/ztimer/blob/master/img/008.png "zTimer - Reminder window (blinking random color)"
+[screen009]: https://github.com/peter15914/ztimer/blob/master/img/009.png "zTimer - You can skip a reminder"
