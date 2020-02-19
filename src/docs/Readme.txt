@@ -28,9 +28,7 @@ use 'L' button to toggle "automatic pause on computer lock" mode
 window transparency can be set by mouse wheel
 
 Official resources:
-http://ztimer.net
-http://ztimer.ru (Russian site)
-http://sourceforge.net/projects/ztimer/
+https://github.com/peter15914/ztimer
 
 =====================================================
 Version history:
